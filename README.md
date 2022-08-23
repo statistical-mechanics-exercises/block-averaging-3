@@ -5,7 +5,7 @@ In this exercise we are going to remind ourselves how to compute the variance.  
 Recall that the sample variance is given by:
 
 $$
-\langle(E-\langle\E\rangle)^2\rangle=\frac{N}{N-1}\left[\frac{1}{N}\sum_{t=1}^NE_t^2-\left(\frac{1}{N}\sum_{t=1}^NE_t\right)^2\right]
+\langle(E-\langle E\rangle)^2\rangle=\frac{N}{N-1}\left[\frac{1}{N}\sum_{t=1}^NE_t^2-\left(\frac{1}{N}\sum_{t=1}^NE_t\right)^2\right]
 $$
 
 For this exercise I want you to calculate this quantity for:
